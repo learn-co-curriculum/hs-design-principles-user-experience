@@ -1,9 +1,4 @@
----
-tags: kids, web design, intro, design principles, user experience
-language: html, css
-level: 1
-type: resources
----
+
 
 ##Design Principles - User Experience
 Click below for more info on user experience design.
