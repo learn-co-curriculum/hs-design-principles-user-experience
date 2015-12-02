@@ -12,3 +12,5 @@ Click below for more info on user experience design.
 + [The Design of Everyday Things](http://usabilitypost.com/2010/11/17/the-design-of-everyday-things/)
 
 + [52 Weeks of UX](http://52weeksofux.com/)
+
+<a href='https://learn.co/lessons/hs-design-principles-user-experience' data-visibility='hidden'>View this lesson on Learn.co</a>
