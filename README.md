@@ -13,4 +13,4 @@ Click below for more info on user experience design.
 
 + [52 Weeks of UX](http://52weeksofux.com/)
 
-<a href='https://learn.co/lessons/hs-design-principles-user-experience' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-design-principles-user-experience' title='Design Principles - User Experience'>Design Principles - User Experience</a> on Learn.co and start learning to code for free.</p>
